@@ -2,24 +2,24 @@
 
 $matches = [
     [
-        'home_team':'Milano',
-        'guest_team':'Cantù',
-        'home_score':'55',
-        'guest_score':'60',
+        'home_team'=>'Milano',
+        'guest_team'=>'Cantù',
+        'home_score'=>'55',
+        'guest_score'=>'60',
     ];
 
     [
-        'home_team':'Verona',
-        'guest_team':'Bologna',
-        'home_score':'53',
-        'guest_score':'66',
+        'home_team'=>'Verona',
+        'guest_team'=>'Bologna',
+        'home_score'=>'53',
+        'guest_score'=>'66',
     ];
 
     [
-        'home_team':'Bolzano',
-        'guest_team':'Trento',
-        'home_score':'23',
-        'guest_score':'67',
+        'home_team'=>'Bolzano',
+        'guest_team'=>'Trento',
+        'home_score'=>'23',
+        'guest_score'=>'67',
     ];
         
 ]
