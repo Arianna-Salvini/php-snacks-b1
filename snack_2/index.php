@@ -28,6 +28,7 @@ if (strlen($name)>3 && strpos($email, '.') !== false && strpos($email, '@') !== 
         <input type="number" name="age" id="age" placeholder="Inserisci la tua età">
         <button type="submit">Invia</button>
     </form> 
+    <!-- /form -->
 
     <h3 class="message_validation">
         <?php echo $messageValidation;  ?>
