@@ -26,7 +26,7 @@ $matches = [
 
 for($i = 0; $i < count($matches); $i++){
     $match = $matches[$i];
-    echo $match["home_team"] . " " . "vs" . " " . $match["guest_team"] . "  " . $match["home_score"] . "-" . $match["guest_score"] . "<br>";
+    echo $match["home_team"] . " " . "vs" . " " . $match["guest_team"] . " | " . $match["home_score"] . "-" . $match["guest_score"] . "<br>";
 };
 
 ?>
